@@ -1,1 +1,1 @@
-# wconf
+# tf2conf
