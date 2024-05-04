@@ -1,0 +1,13 @@
+# Auto detect
+* text=auto
+
+# filetypes
+*.cfg linguist-language=c
+**/*.cfg linguist-language=c
+**/**/*.cfg linguist-language=c
+**/*.cfg linguist-detectable=true
+
+# Do not export
+.gitattributes export-ignore
+LICENSE export-ignore
+README.md export-ignore
