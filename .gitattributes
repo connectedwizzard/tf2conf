@@ -12,3 +12,6 @@
 .gitattributes export-ignore
 LICENSE export-ignore
 README.md export-ignore
+
+# Ignore the .files folder
+/.files/
